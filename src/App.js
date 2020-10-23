@@ -10,7 +10,7 @@ import { store } from './store';
 function App() {
   return (
     <Provider store={store}>
-      <HashRouter history={history}>
+      <HashRouter basename="/" history={history}>
         <div className="App">
           <Routes />
 

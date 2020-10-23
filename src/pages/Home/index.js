@@ -62,7 +62,7 @@ function Home() {
     }
 
     const goToDetails = login => {
-        history.push(`/#/details/${login}`);
+        history.push(`/test-github-api/#/details/${login}`);
 
         window.location.reload();
     }
