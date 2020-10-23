@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/test-github-api/static/js/main.564bb2bf.chunk.js",
+    "main.js.map": "/test-github-api/static/js/main.564bb2bf.chunk.js.map",
+    "runtime-main.js": "/test-github-api/static/js/runtime-main.acfb5ef8.js",
+    "runtime-main.js.map": "/test-github-api/static/js/runtime-main.acfb5ef8.js.map",
+    "static/css/2.6414bb7b.chunk.css": "/test-github-api/static/css/2.6414bb7b.chunk.css",
+    "static/js/2.5a94ac08.chunk.js": "/test-github-api/static/js/2.5a94ac08.chunk.js",
+    "static/js/2.5a94ac08.chunk.js.map": "/test-github-api/static/js/2.5a94ac08.chunk.js.map",
+    "index.html": "/test-github-api/index.html",
+    "precache-manifest.adc04b75399fb2f12504ff7b2bf8a6e7.js": "/test-github-api/precache-manifest.adc04b75399fb2f12504ff7b2bf8a6e7.js",
+    "service-worker.js": "/test-github-api/service-worker.js",
+    "static/css/2.6414bb7b.chunk.css.map": "/test-github-api/static/css/2.6414bb7b.chunk.css.map",
+    "static/js/2.5a94ac08.chunk.js.LICENSE.txt": "/test-github-api/static/js/2.5a94ac08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acfb5ef8.js",
+    "static/css/2.6414bb7b.chunk.css",
+    "static/js/2.5a94ac08.chunk.js",
+    "static/js/main.564bb2bf.chunk.js"
+  ]
+}
