@@ -70,3 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+---
+
+# Jesus said to him, "I am the way, and the truth, and the life. No one comes to the Father except through me." - John 14:6
